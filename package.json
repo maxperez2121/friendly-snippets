@@ -73,6 +73,10 @@
                 "path": "./snippets/eelixir.json"
             },
             {
+                "language": "env",
+                "path": "./snippets/env.json"
+            },
+            {
                 "language": "fortran",
                 "path": "./snippets/fortran.json"
             },
